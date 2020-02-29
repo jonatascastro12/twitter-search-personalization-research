@@ -1,0 +1,40 @@
+{
+    "session_id": "t_p10",
+    "max_results": 10,
+    "queries": [
+        "Temer", "lula", "Dilma", "Bolsonaro"
+    ],
+    "agents": {
+        "pro_agent": {
+            "id": "pro_agent",
+            "username": "xxxxx",
+            "password": "xxxxx",
+            "platform": "twitter"
+        },
+        "neutral_agent": {
+            "id": "neutral_agent",
+            "username": "xxxxxx",
+            "password": "xxxxxx",
+            "platform": "twitter"
+        }
+    },
+    "profiles": {
+        "pro_agent": [
+            "MomentsBrasil",
+            "kimpkat",
+            "MBLivre"
+        ],
+        "anti_agent": [
+            "teleSURtv",
+            "LulaOficial",
+            "MarceloFreixo"
+        ],
+        "neutral_agent": []
+    },
+    "date_intervals": [
+        "until:2019-03-22",
+        "since:2019-03-22 until:2019-03-24",
+        "since:2019-03-24",
+        ""
+    ]
+}
