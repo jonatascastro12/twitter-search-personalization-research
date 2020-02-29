@@ -1,7 +1,6 @@
 # Twitter Search Personalization Research
 
 This repository contains assets that were used on research about personalization on Twitter Search.
-You can read more details about our methodology at the article (is comming...)
 
 Structure:
 
