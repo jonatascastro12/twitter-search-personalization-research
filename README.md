@@ -2,7 +2,7 @@
 
 This repository contains assets that were used on research about personalization on Twitter Search.
 
-Our article *Is There Personalization in Twitter Search? A Study on polarized opinions about the Brazilian Welfare Reform* on [WebSci2020](https://websci20.webscience.org/) was accepted. Coming soon!
+Our article *Is There Personalization in Twitter Search? A Study on polarized opinions about the Brazilian Welfare Reform* on [WebSci2020](https://websci20.webscience.org/) was accepted. https://dl.acm.org/doi/abs/10.1145/3394231.3397917
 
 Structure:
 
